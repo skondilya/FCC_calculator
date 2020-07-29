@@ -3,7 +3,7 @@
 Front End Libraries Projects - Build a JavaScript Calculator
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/wgGVVX.
 
-###Page can be viewed at https://codepen.io/supermeawesome/full/qBOxMgw
+ ### Page can be viewed at https://codepen.io/supermeawesome/full/qBOxMgw
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
